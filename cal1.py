@@ -2,11 +2,6 @@
 def add(x, y):
     return x + y
 
-# This function adds two numbers
-
-def multiply(x, y):
-    return x * y
-
 # This function divide two numbers
 def divide(x, y):
     return x / y
